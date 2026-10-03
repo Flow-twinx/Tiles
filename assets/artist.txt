@@ -1,0 +1,371 @@
+# Artist names, one per line. '#' lines are ignored.
+# Optional aliases go after the main name:  Main Name | Alias | Alias
+# Matching is case- and accent-insensitive, so "beyonce" finds "Beyoncé".
+# A name is only accepted at the start of a chunk (or after 1-2 words), so a
+# title that merely mentions an artist is not mistaken for one.
+
+# --- global pop / R&B ---
+2 Unlimited
+Adele
+Ariana Grande | Ariana
+Ava Max
+Beyonce | Beyonce Knowles
+Billie Eilish
+Bruno Mars
+BTS | Bangtan Sonyeondan
+Britney Spears
+Camila Cabello
+Cardi B
+Carly Rae Jepsen | Carly Rae
+Charlie Puth
+Coldplay
+Demi Lovato
+Dua Lipa
+Ed Sheeran
+Elton John
+Ellie Goulding
+En Vogue
+FKA twigs
+Florence and the Machine | Florence Welch
+Frank Ocean
+Gracie Abrams
+Halsey
+Harry Styles
+Holly Humberstone
+Janelle Monáe | Janelle Monae
+Jesse McCartney
+John Legend
+Justin Bieber
+Katy Perry
+Lady Gaga
+Lana Del Rey
+Lorde
+Mabel
+Madonna
+Maroon 5
+Meghan Trainor
+Miley Cyrus
+Niall Horan
+Normani
+Olivia Rodrigo
+OneRepublic | One Republic
+Pink | P!nk
+Rihanna
+Rosalía | Rosalia
+Rina Sawayama
+Sabrina Carpenter
+Selena Gomez
+Shawn Mendes
+Sia
+Sophie Ellis-Bextor
+Stevie Wonder
+Taylor Swift
+The Chainsmokers
+The Kid Laroi
+The Weeknd | Weeknd
+Tinashe
+Troye Sivan
+Zayn | Zayn Malik
+Zedd
+Doja Cat
+NF
+NF | Nero Flags
+
+# --- hip hop / rap ---
+21 Savage
+50 Cent
+6ix9ine | 6IX9INE
+A Boogie wit da Hoodie
+ASAP Mob
+Aston Villa
+Big Sean
+Chief Keef
+Dave East
+Denzel Curry
+Drake
+Eminem
+Fetty Wap
+Flo Rida
+Future
+G-Eazy
+Ice Spice
+J. Cole | J Cole
+JAY-Z | Jay Z
+Juice Wrld | Juice WRLD
+Kanye West | Ye
+Kendrick Lamar
+Kid Cudi
+Koffee
+Lil Baby
+Lil Dicky
+Lil Nas X
+Lil Uzi Vert
+Logic
+M.I.A. | MIA
+Macklemore
+Megan Thee Stallion
+Nicki Minaj
+NLE Choppa
+Offset
+Playboi Carti
+Post Malone
+Pusha T
+Rae Sremmurd
+Run-DMC | Run DMC
+Ski Mask The Slump God
+Snoop Dogg
+Stormzy
+Travis Scott
+Trippie Redd
+Ty Dolla Sign | Ty Dolla $ign
+Tyler, The Creator | Tyler The Creator
+Vince Staples
+Wizkid
+Yeat
+Young Thug
+Yung Lean
+
+# --- rock / metal / indie ---
+Arctic Monkeys
+Audioslave
+Bastille
+Bring Me The Horizon
+Bullet for My Valentine
+Cold War Kids
+Daughter
+Deftones
+Disturbed
+Enter Shikari
+Fall Out Boy
+Foo Fighters
+Fujii Kaze
+Gorillaz
+Green Day
+Imagine Dragons
+Interpol
+Jimmy Eat World
+Kodaline
+Led Zeppelin
+Linkin Park
+Lorna Shore
+Machine Gun Kelly | MGK
+Marilyn Manson
+Metallica
+Mitski
+Muse
+My Chemical Romance
+Nickelback
+Nine Inch Nails
+Nothing But Thieves
+Papa Roach
+Paramore
+Pierce The Veil
+Queens of the Stone Age
+Radiohead
+Rammstein
+Sleep Token
+Smash Mouth
+Snow Patrol
+Stone Sour
+Sum 41
+System of a Down
+The 1975
+The Beach Boys
+The Beatles
+The Black Keys
+The Cranberries
+The Killers
+The National
+The Offspring
+The Rolling Stones
+The Strokes
+Three Days Grace
+Tokio Hotel
+Touché Amoré | Touche Amore
+Twenty One Pilots
+Van Halen
+Veach
+Void Poets
+Weezer
+Wolf Alice
+
+# --- EDM / dance ---
+Above & Beyond | Above and Beyond
+Alan Walker
+Alok
+Armin van Buuren
+Axwell Λ Ingrosso | Axwell and Ingrosso
+Calvin Harris
+Cashmere Cat
+Chase & Status
+Claptone
+David Guetta
+Diplo
+Dimitri Vegas
+Don Diablo
+DuckSauce
+Fred Again.. | Fred Again
+Kaskade
+Kygo
+LSDREAM
+Major Lazer
+Marshmello
+Martin Garrix
+Tiësto | Tiesto
+TheFatRat
+Topic
+VIZE
+Yello
+
+# --- K-pop / J-pop ---
+aespa
+ATEEZ
+BABYMONSTER
+BLACKPINK | Blackpink
+Enhypen
+EXO
+IU | Lee Ji-eun
+Jimin | Park Jimin
+Jungkook | Jeon Jungkook
+NewJeans
+NMIXX
+Red Velvet
+SEVENTEEN | SVT
+Stray Kids | StrayKids
+TWICE
+VIXX
+Zico
+
+# --- latin / reggaeton ---
+Bad Bunny
+Carlos Vives
+Daddy Yankee
+Feid
+J Balvin
+Karol G
+Maluma
+Nicky Jam
+Ozuna
+Paulo Londra
+Peso Pluma
+Rauw Alejandro
+Sebastián Yatra | Sebastian Yatra
+Shakira
+TINI | Martina Stoessel
+Tokischa
+
+# --- India: playback singers ---
+Amit Trivedi
+Arijit Singh | Arijit
+Armaan Malik
+Badal Barmer
+Bappi Lahiri
+Dhvani Bhanushali
+Divya Kumar
+Harshdeep Kaur
+Himesh Reshammiya
+Jasleen Royal
+Jubin Nautiyal
+Kailash Kher
+Karan Aujla
+Keerthy Ponnappa
+Neha Kakkar
+Palak Muchhal
+Pritam
+Sanam Reet
+Shaan
+Shreya Ghoshal
+Sonu Nigam
+Sunidhi Chauhan
+Sukhwinder Singh
+Vishal Dadlani
+
+# --- India: composers / bands / labels ---
+A.R. Rahman | AR Rahman
+Ajay-Atul | Ajay Atul
+Anu Malik
+Badshah
+Desi Beats
+Ilaiyaraaja
+Kishore Kumar
+Laxmikant-Pyarelal | Laxmikant Pyarelal
+Mithoon
+Mickey Virus Mal
+Nadeem-Shravan | Nadeem Shravan
+Ravi Shankar
+Salim-Sulaiman | Salim Sulaiman
+Saregama
+Shankar Mahadevan
+Shankar-Ehsaan-Loy | Shankar Ehsaan Loy
+Shiv-Hari | Shiv Hari
+Sona Mohapatra
+Tips Music
+Times Music
+T-Series | T Series | TSeries
+Vijay Antony
+Warner Music India
+
+# --- India: indie / rock / regional ---
+Agnee | Agni
+Ankur Tewari
+Band of Boys
+Chai-Town | Chai Town
+Colonial Cousins
+Fossils
+Great Khali
+Indian Ocean
+Parvaaz
+Peter Cat Recording Co. | Peter Cat
+Prateek Kuhad
+Raghav Meattle
+Shaan Rahman
+The F16s
+The Local Train
+The Raghu Dixit Project | Raghu Dixit
+The Ska Vengers
+Tetseo Sisters
+Yashpal Sharma
+
+# --- Pakistan / South Asia ---
+Atif Aslam
+Bohemia
+Diljit Dosanjh
+Faris Shafi
+Imran Khan
+Meesha Shafi
+Rahat Fateh Ali Khan
+Runa Laila
+Saif Ali Lohar
+Sajjad Ali
+Shafqat Amanat Ali
+Tahir | Tahir Raj
+
+# --- Nordics / misc international ---
+MØ
+Röyksopp | Royksopp
+Sigala
+Sigrid
+Tove Lo
+Zara Larsson
+
+# --- channels and labels: never a title, and never the artist when they show
+# --- up as their own chunk ("Kesariya - Arijit Singh | T-Series | 2023")
+# Prefix a line with "!" to mark it as one.
+!Saregama
+!Tips Music
+!Times Music
+!T-Series | T Series | TSeries
+!Warner Music India
+!Desi Beats
+!Sony Music India
+!Speed Music
+!Anodidas
+!V4 Records
+!Zee Music Company
+!T-Series Bhakti Sagar
+!Aditya Music
+!Tips
+!Saregama Music
+!Zee Music
+!GMM Grammy
+!One Direction

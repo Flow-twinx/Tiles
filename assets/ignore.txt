@@ -1,0 +1,175 @@
+# Add one word or phrase per line. Words listed here are removed from song titles.
+# Lines starting with '#' are ignored.
+#
+# Rules used by main.py:
+#   single word  -> only stripped from the start/end of a chunk (so "Old Town Road"
+#                   or "Love Song" keep their words); stripped anywhere if the chunk
+#                   holds 2+ junk words, which is the "Official Music Video" case.
+#   phrase (2+)  -> stripped from anywhere, it can never be a real song title.
+#   "feat/ft/prod/cover by/from ..." credits are handled by main.py itself.
+4k
+audio
+clip
+cover
+explicit
+feat
+featuring
+ft
+full
+hd
+hq
+latest
+live
+lyric
+lyrics
+music
+mv
+new
+official
+officials
+old
+original
+release
+remix
+song
+songs
+teaser
+trailer
+version
+video
+videos
+visualizer
+lyrical
+
+# --- resolution / quality ---
+2k
+8k
+uhd
+fhd
+qhd
+sd
+60fps
+30fps
+50fps
+24fps
+1080p
+720p
+480p
+2160p
+1440p
+4k60fps
+fullhd
+hd1080
+kbps
+320kbps
+rip
+hdrip
+dvdrip
+bdrip
+webrip
+hdtvrip
+camrip
+hqrip
+high quality
+best quality
+master quality
+high definition
+
+# --- "official ..." variants (phrases, safe anywhere) ---
+official video
+official music video
+official lyric video
+official lyrics video
+official audio
+official song
+official visualizer
+official trailer
+official teaser
+official channel
+official hd
+music video
+lyric video
+lyrics video
+lyrical video
+lyricpro video
+visualizer
+color coded
+color coded lyrics
+english lyrics
+hindi lyrics
+lyrics hd
+hd video
+hd audio
+video song
+audio only
+video only
+music only
+mv4
+
+# --- version / release words ---
+karaoke
+instrumental
+acoustic
+unplugged
+orchestral
+nightcore
+slowed
+reverb
+bootleg
+mashup
+remix
+reprise
+extended
+demo
+deluxe
+remaster
+remastered
+bonus
+soundtrack
+session
+take
+radio edit
+club edit
+extended version
+radioedit
+8d audio
+sped up
+reverb version
+mashup version
+acoustic version
+instrumental version
+live version
+album version
+single version
+extended mix
+full song
+full album
+full video
+full video song
+full hd
+full english song
+
+# --- channel / download noise ---
+download
+mp3
+mp4
+subscribe
+my channel
+channel
+premiere
+out now
+new song
+new release
+latest release
+latest song
+brand new
+just released
+free download
+download now
+download mp3
+link in description
+description
+official release
+newly released
+trending
+viral
